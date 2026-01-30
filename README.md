@@ -1,2 +1,2 @@
 # Python
-Repositório para armazenar atividades relacionadas a linguagem Python
+Repositório para armazenar atividades relacionadas a linguagem de programação Python
